@@ -31,7 +31,3 @@ Data was queried and analyzed using **SQL** and further explored with Python.
 ## 🛠️ Tools & Libraries
 - **SQL**  
 - pandas  
-- numpy  
-- matplotlib  
-- seaborn  
-- scipy  
